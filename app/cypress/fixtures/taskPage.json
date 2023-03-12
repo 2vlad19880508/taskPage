@@ -1,0 +1,10 @@
+{
+  "Name" : "Test Name",
+  "TextForFirstAlert": "share this practice page and share your knowledge",
+  "TextForSecondAlert": "Are you sure you want to confirm?",
+  "TextFromFile": "Hello from Easygenerator",
+  "OpenTabUrl": "https://www.easygenerator.com",
+  "FacebookLink":  "https://www.facebook.com/easygenerator/",
+  "TwitterLink":  "https://twitter.com/easygenerator",
+  "YoutubeLink":  "https://www.youtube.com/user/easygenerator"
+}
